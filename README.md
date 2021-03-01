@@ -23,6 +23,10 @@ This repository contains no images since it is too heavy to upload, however you 
     * __unlabeled/images__
 3. That's it you are ready
 
+### Prepare the model
+Create a __model__ folder in the root of this repo and download the following model:
+https://drive.google.com/file/d/119RkfoVjpSrL2-fw_-8HpMvKKnF-joJx/view?usp=sharing
+
 ### Generate testing results
 The results should be already available under __/data/test/result.csv__ in the format asked by Colruyt team.
 To re-generate the expected csv results file, launch __export_test.py__ script, you need to configure the following parameter:
