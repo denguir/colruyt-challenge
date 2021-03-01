@@ -15,7 +15,7 @@ conda activate gym_env
 
 ### Prepare the data
 This repository contains no images since it is too heavy to upload, however you can build the expected folder structure by following these steps:
-1. under __data__ folder, you will find an empty __images__ folder, populate it with the images of the exercise, there should be exactly 31.000 images
+1. under __data__ folder, create an  __images__ folder and populate it with the images of the exercise, there should be exactly 31.000 images
 2. under __data__ folder, launch ```python3 separate_data.py```, this script will move the images to 4 different folders:
     * __train/images__
     * __test/images__
