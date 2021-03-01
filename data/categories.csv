@@ -1,0 +1,61 @@
+,supercategory,category_id,name
+50,water,1,adelholzener_alpenquelle_classic_075
+51,water,2,adelholzener_alpenquelle_naturell_075
+55,apple spritzer,3,adelholzener_classic_bio_apfelschorle_02
+52,water,4,adelholzener_classic_naturell_02
+59,blue glass,5,adelholzener_gourmet_mineralwasser_02
+56,brown glass,6,augustiner_lagerbraeu_hell_05
+57,brown glass,7,augustiner_weissbier_05
+53,coca cola,8,coca_cola_05
+54,coca cola,9,coca_cola_light_05
+28,canned soft drink,10,suntory_gokuri_lemonade
+58,brown glass,11,tegernseer_hell_03
+10,packaged cereal bars,12,corny_nussvoll
+36,textured packaging,13,corny_nussvoll_single
+11,packaged cereal bars,14,corny_schoko_banane
+37,textured packaging,15,corny_schoko_banane_single
+9,cereals,16,dr_oetker_vitalis_knuspermuesli_klassisch
+7,cereals,17,koelln_muesli_fruechte
+8,cereals,18,koelln_muesli_schoko
+32,textured packaging,19,caona_cocoa
+39,textured packaging,20,cocoba_cocoa
+33,textured packaging,21,cafe_wunderbar_espresso
+35,textured packaging,22,douwe_egberts_professional_ground_coffee
+38,textured packaging,23,gepa_bio_caffe_crema
+34,textured packaging,24,gepa_italienischer_bio_espresso
+48,cardboard tray,25,apple_braeburn_bundle
+17,apples,26,apple_golden_delicious
+18,apples,27,apple_granny_smith
+19,apples,28,apple_red_boskoop
+22,avocados,29,avocado
+23,bananas,30,banana_bundle
+24,bananas,31,banana_single
+45,nets,32,clementine
+21,orange citrus,33,clementine_single
+40,plastic tray,34,grapes_green_sugraone_seedless
+43,plastic tray,35,grapes_sweet_celebration_seedless
+25,kiwis,36,kiwi
+20,orange citrus,37,orange_single
+44,nets,38,oranges
+26,pears,39,pear
+29,pasta,40,pasta_reggia_elicoidali
+30,pasta,41,pasta_reggia_fusilli
+31,pasta,42,pasta_reggia_spaghetti
+27,board eraser,43,franken_tafelreiniger
+12,ink cartridge,44,pelikan_tintenpatrone_canon
+3,tea,45,ethiquable_gruener_tee_ceylon
+0,tea,46,gepa_bio_und_fair_fencheltee
+2,tea,47,gepa_bio_und_fair_kamillentee
+1,tea,48,gepa_bio_und_fair_kraeuterteemischung
+4,tea,49,gepa_bio_und_fair_pfefferminztee
+5,tea,50,gepa_bio_und_fair_rooibostee
+6,tea,51,kilimanjaro_tea_earl_grey
+15,cucumbers,52,cucumber
+14,carrots,53,carrot
+41,plastic tray,54,corn_salad
+13,salad,55,lettuce
+47,cardboard tray,56,vine_tomatoes
+49,cardboard tray,57,roma_vine_tomatoes
+42,plastic tray,58,rocket
+46,foil,59,salad_iceberg
+16,zucchinis,60,zucchini

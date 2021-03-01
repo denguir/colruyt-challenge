@@ -1,0 +1,5 @@
+images/
+model/
+runs/
+cocoapi/
+*.pyc
